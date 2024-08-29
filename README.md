@@ -1,4 +1,4 @@
-Arduino de Controle de Iluminação Automática
+# [Título do Projeto](#Arduino de Controle de Iluminação Automática)
 Eu escolhi um projeto com Arduino para detectar a luminosidade do ambiente é um sistema que utiliza um sensor de luminosidade (geralmente um LDR - Light Dependent Resistor) para medir a intensidade da luz. 
 A leitura da luminosidade é feita pelo Arduino, que processa essas informações e pode executar ações específicas, como acender ou apagar uma luz, dependendo do nível de iluminação detectado.
 
